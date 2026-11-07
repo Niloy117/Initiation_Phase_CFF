@@ -1,0 +1,280 @@
+           1 node_nm
+           1           1 area_nm,area serial
+           2           3 neighbours
+  
+           2 node_nm
+           1           1 area_nm,area serial
+           4           1 neighbours
+  
+           3 node_nm
+           1           1 area_nm,area serial
+           1           4 neighbours
+           2           2 area_nm,area serial
+           4           5 neighbours
+  
+           4 node_nm
+           1           1 area_nm,area serial
+           3           2 neighbours
+           2           2 area_nm,area serial
+           6           3 neighbours
+  
+           5 node_nm
+           2           1 area_nm,area serial
+           3           6 neighbours
+           3           2 area_nm,area serial
+           6           7 neighbours
+  
+           6 node_nm
+           2           1 area_nm,area serial
+           5           4 neighbours
+           3           2 area_nm,area serial
+           8           5 neighbours
+  
+           7 node_nm
+           3           1 area_nm,area serial
+           5           8 neighbours
+           4           2 area_nm,area serial
+           8           9 neighbours
+  
+           8 node_nm
+           3           1 area_nm,area serial
+           7           6 neighbours
+           4           2 area_nm,area serial
+          10           7 neighbours
+  
+           9 node_nm
+           4           1 area_nm,area serial
+           7          10 neighbours
+           5           2 area_nm,area serial
+          10          11 neighbours
+  
+          10 node_nm
+           4           1 area_nm,area serial
+           9           8 neighbours
+           5           2 area_nm,area serial
+          12           9 neighbours
+  
+          11 node_nm
+           5           1 area_nm,area serial
+           9          12 neighbours
+           6           2 area_nm,area serial
+          12          13 neighbours
+  
+          12 node_nm
+           5           1 area_nm,area serial
+          11          10 neighbours
+           6           2 area_nm,area serial
+          14          11 neighbours
+  
+          13 node_nm
+           6           1 area_nm,area serial
+          11          14 neighbours
+           7           2 area_nm,area serial
+          14          15 neighbours
+  
+          14 node_nm
+           6           1 area_nm,area serial
+          13          12 neighbours
+           7           2 area_nm,area serial
+          16          13 neighbours
+  
+          15 node_nm
+           7           1 area_nm,area serial
+          13          16 neighbours
+           8           2 area_nm,area serial
+          16          17 neighbours
+  
+          16 node_nm
+           7           1 area_nm,area serial
+          15          14 neighbours
+           8           2 area_nm,area serial
+          18          15 neighbours
+  
+          17 node_nm
+           8           1 area_nm,area serial
+          15          18 neighbours
+           9           2 area_nm,area serial
+          18          19 neighbours
+  
+          18 node_nm
+           8           1 area_nm,area serial
+          17          16 neighbours
+           9           2 area_nm,area serial
+          20          17 neighbours
+  
+          19 node_nm
+           9           1 area_nm,area serial
+          17          20 neighbours
+          10           2 area_nm,area serial
+          20          21 neighbours
+  
+          20 node_nm
+           9           1 area_nm,area serial
+          19          18 neighbours
+          10           2 area_nm,area serial
+          22          19 neighbours
+  
+          21 node_nm
+          10           1 area_nm,area serial
+          19          22 neighbours
+          11           2 area_nm,area serial
+          22          23 neighbours
+  
+          22 node_nm
+          10           1 area_nm,area serial
+          21          20 neighbours
+          11           2 area_nm,area serial
+          24          21 neighbours
+  
+          23 node_nm
+          11           1 area_nm,area serial
+          21          24 neighbours
+          23           2 area_nm,area serial
+          24          47 neighbours
+  
+          24 node_nm
+          11           1 area_nm,area serial
+          23          22 neighbours
+          23           2 area_nm,area serial
+          48          23 neighbours
+  
+          25 node_nm
+          12           1 area_nm,area serial
+          27          26 neighbours
+  
+          26 node_nm
+          12           1 area_nm,area serial
+          25          28 neighbours
+  
+          27 node_nm
+          12           1 area_nm,area serial
+          28          25 neighbours
+          13           2 area_nm,area serial
+          29          28 neighbours
+  
+          28 node_nm
+          12           1 area_nm,area serial
+          26          27 neighbours
+          13           2 area_nm,area serial
+          27          30 neighbours
+  
+          29 node_nm
+          13           1 area_nm,area serial
+          30          27 neighbours
+          14           2 area_nm,area serial
+          31          30 neighbours
+  
+          30 node_nm
+          13           1 area_nm,area serial
+          28          29 neighbours
+          14           2 area_nm,area serial
+          29          32 neighbours
+  
+          31 node_nm
+          14           1 area_nm,area serial
+          32          29 neighbours
+          15           2 area_nm,area serial
+          33          32 neighbours
+  
+          32 node_nm
+          14           1 area_nm,area serial
+          30          31 neighbours
+          15           2 area_nm,area serial
+          31          34 neighbours
+  
+          33 node_nm
+          15           1 area_nm,area serial
+          34          31 neighbours
+          16           2 area_nm,area serial
+          35          34 neighbours
+  
+          34 node_nm
+          15           1 area_nm,area serial
+          32          33 neighbours
+          16           2 area_nm,area serial
+          33          36 neighbours
+  
+          35 node_nm
+          16           1 area_nm,area serial
+          36          33 neighbours
+          17           2 area_nm,area serial
+          37          36 neighbours
+  
+          36 node_nm
+          16           1 area_nm,area serial
+          34          35 neighbours
+          17           2 area_nm,area serial
+          35          38 neighbours
+  
+          37 node_nm
+          17           1 area_nm,area serial
+          38          35 neighbours
+          18           2 area_nm,area serial
+          39          38 neighbours
+  
+          38 node_nm
+          17           1 area_nm,area serial
+          36          37 neighbours
+          18           2 area_nm,area serial
+          37          40 neighbours
+  
+          39 node_nm
+          18           1 area_nm,area serial
+          40          37 neighbours
+          19           2 area_nm,area serial
+          41          40 neighbours
+  
+          40 node_nm
+          18           1 area_nm,area serial
+          38          39 neighbours
+          19           2 area_nm,area serial
+          39          42 neighbours
+  
+          41 node_nm
+          19           1 area_nm,area serial
+          42          39 neighbours
+          20           2 area_nm,area serial
+          43          42 neighbours
+  
+          42 node_nm
+          19           1 area_nm,area serial
+          40          41 neighbours
+          20           2 area_nm,area serial
+          41          44 neighbours
+  
+          43 node_nm
+          20           1 area_nm,area serial
+          44          41 neighbours
+          21           2 area_nm,area serial
+          45          44 neighbours
+  
+          44 node_nm
+          20           1 area_nm,area serial
+          42          43 neighbours
+          21           2 area_nm,area serial
+          43          46 neighbours
+  
+          45 node_nm
+          21           1 area_nm,area serial
+          46          43 neighbours
+          22           2 area_nm,area serial
+          47          46 neighbours
+  
+          46 node_nm
+          21           1 area_nm,area serial
+          44          45 neighbours
+          22           2 area_nm,area serial
+          45          48 neighbours
+  
+          47 node_nm
+          22           1 area_nm,area serial
+          48          45 neighbours
+          23           2 area_nm,area serial
+          23          48 neighbours
+  
+          48 node_nm
+          22           1 area_nm,area serial
+          46          47 neighbours
+          23           2 area_nm,area serial
+          47          24 neighbours
+  

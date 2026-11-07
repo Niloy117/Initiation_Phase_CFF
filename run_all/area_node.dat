@@ -1,0 +1,24 @@
+ area-node   first one area_node(i,0)
+ area_to_node for area =           1 are           4           1           2           4           3          -1
+ area_to_node for area =           2 are           4           3           4           6           5          -1
+ area_to_node for area =           3 are           4           5           6           8           7          -1
+ area_to_node for area =           4 are           4           7           8          10           9          -1
+ area_to_node for area =           5 are           4           9          10          12          11          -1
+ area_to_node for area =           6 are           4          11          12          14          13          -1
+ area_to_node for area =           7 are           4          13          14          16          15          -1
+ area_to_node for area =           8 are           4          15          16          18          17          -1
+ area_to_node for area =           9 are           4          17          18          20          19          -1
+ area_to_node for area =          10 are           4          19          20          22          21          -1
+ area_to_node for area =          11 are           4          21          22          24          23          -1
+ area_to_node for area =          12 are           4          25          27          28          26          -1
+ area_to_node for area =          13 are           4          27          29          30          28          -1
+ area_to_node for area =          14 are           4          29          31          32          30          -1
+ area_to_node for area =          15 are           4          31          33          34          32          -1
+ area_to_node for area =          16 are           4          33          35          36          34          -1
+ area_to_node for area =          17 are           4          35          37          38          36          -1
+ area_to_node for area =          18 are           4          37          39          40          38          -1
+ area_to_node for area =          19 are           4          39          41          42          40          -1
+ area_to_node for area =          20 are           4          41          43          44          42          -1
+ area_to_node for area =          21 are           4          43          45          46          44          -1
+ area_to_node for area =          22 are           4          45          47          48          46          -1
+ area_to_node for area =          23 are           4          47          23          24          48          -1

@@ -1,0 +1,24 @@
+ area-spr    first one node_area(i,0)
+ area to spr for i =           1 area are           3           1           2           3          -1
+ area to spr for i =           2 area are           4           3           4           5           6
+ area to spr for i =           3 area are           4           6           7           8           9
+ area to spr for i =           4 area are           4           9          10          11          12
+ area to spr for i =           5 area are           4          12          13          14          15
+ area to spr for i =           6 area are           4          15          16          17          18
+ area to spr for i =           7 area are           4          18          19          20          21
+ area to spr for i =           8 area are           4          21          22          23          24
+ area to spr for i =           9 area are           4          24          25          26          27
+ area to spr for i =          10 area are           4          27          28          29          30
+ area to spr for i =          11 area are           4          30          31          32          33
+ area to spr for i =          12 area are           3          34          35          36          -1
+ area to spr for i =          13 area are           4          36          37          38          39
+ area to spr for i =          14 area are           4          39          40          41          42
+ area to spr for i =          15 area are           4          42          43          44          45
+ area to spr for i =          16 area are           4          45          46          47          48
+ area to spr for i =          17 area are           4          48          49          50          51
+ area to spr for i =          18 area are           4          51          52          53          54
+ area to spr for i =          19 area are           4          54          55          56          57
+ area to spr for i =          20 area are           4          57          58          59          60
+ area to spr for i =          21 area are           4          60          61          62          63
+ area to spr for i =          22 area are           4          63          64          65          66
+ area to spr for i =          23 area are           4          33          67          68          66

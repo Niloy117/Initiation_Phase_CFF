@@ -1,0 +1,26 @@
+ LeftSide Cell List :
+           1           1 lftSideCell
+           2           2 lftSideCell
+           3           3 lftSideCell
+           4           4 lftSideCell
+           5           5 lftSideCell
+           6           6 lftSideCell
+           7           7 lftSideCell
+           8           8 lftSideCell
+           9           9 lftSideCell
+          10          10 lftSideCell
+          11          11 lftSideCell
+ RightSide Cell List :
+          12           1 rghtSideCell
+          13           2 rghtSideCell
+          14           3 rghtSideCell
+          15           4 rghtSideCell
+          16           5 rghtSideCell
+          17           6 rghtSideCell
+          18           7 rghtSideCell
+          19           8 rghtSideCell
+          20           9 rghtSideCell
+          21          10 rghtSideCell
+          22          11 rghtSideCell
+ Central Cell List :
+          23           1 cntrlCell
